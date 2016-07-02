@@ -12,7 +12,12 @@
 - [Java并发工具包详解](http://blog.csdn.net/defonds/article/details/44021605#t7)
 - [Java并发工具包实例](http://www.cnblogs.com/draem0507/p/3824258.html)
 
+###JMM###
+- [java内存模型](http://www.cnblogs.com/nexiyi/p/java_memory_model_and_thread.html)
+- [java内存模型系列文章](http://ifeve.com/java-memory-model-0/)
+
 ### JVM ###
+
 - [JAVA虚拟机体系结构](http://www.cnblogs.com/java-my-life/archive/2012/08/01/2615221.html) 
 - [Java虚拟机 类加载的过程](http://blog.csdn.net/xuefeng0707/article/details/9132339)
 
