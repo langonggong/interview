@@ -16,8 +16,10 @@
 - [Java并发工具包实例](http://www.cnblogs.com/draem0507/p/3824258.html)
 
 ###JMM###
+
 - [java内存模型](http://www.cnblogs.com/nexiyi/p/java_memory_model_and_thread.html)
 - [java内存模型系列文章](http://ifeve.com/java-memory-model-0/)
+- [原子性、可见性、有序性](http://www.cnblogs.com/tonyluis/p/5454713.html)      
 
 ### JVM ###
 
