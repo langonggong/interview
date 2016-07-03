@@ -1,9 +1,10 @@
 # Article
 ##
 ### 基础 ###
-- [异常](http://blog.csdn.net/lxlzhn/article/details/4484872)         
+- [异常](http://blog.csdn.net/lxlzhn/article/details/4484872)   
+      
 ###java集合###
-- [Java之美[从菜鸟到高手演变]之集合类](http://blog.csdn.net/zhangerqing/article/details/8122075)
+- [Java之美(从菜鸟到高手演变)之集合类](http://blog.csdn.net/zhangerqing/article/details/8122075)
 
 ### java多线程 ###
 - [面试题](http://www.importnew.com/12773.html)    
