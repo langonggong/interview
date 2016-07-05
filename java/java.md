@@ -10,6 +10,7 @@
 - [面试题](http://www.importnew.com/12773.html)    
 	* [Callable接口和Runnable接口](http://uule.iteye.com/blog/1488270)
 	* [CountDownLatch、CyclicBarrier和Semaphore](http://www.cnblogs.com/dolphin0520/p/3920397.html)
+	* [ThreadLocal](http://blog.csdn.net/lufeng20/article/details/24314381)
 - [概念与原理](http://blog.csdn.net/joejames/article/details/46832091)
 - [并发编程](http://blog.csdn.net/escaflone/article/details/10418651#)
 - [Java并发工具包详解](http://blog.csdn.net/defonds/article/details/44021605#t7)
