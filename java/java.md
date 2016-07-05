@@ -5,11 +5,14 @@
       
 ###java集合###
 - [Java之美(从菜鸟到高手演变)之集合类](http://blog.csdn.net/zhangerqing/article/details/8122075)
+	* [Vector](http://blog.csdn.net/chenssy/article/details/37520981)
 
 ### java多线程 ###
 - [面试题](http://www.importnew.com/12773.html)    
 	* [Callable接口和Runnable接口](http://uule.iteye.com/blog/1488270)
 	* [CountDownLatch、CyclicBarrier和Semaphore](http://www.cnblogs.com/dolphin0520/p/3920397.html)
+	* [Volatile](http://www.ibm.com/developerworks/cn/java/j-jtp06197.html)
+	* [如何终止java线程](http://blog.csdn.net/anhuidelinger/article/details/11746365)
 	* [ThreadLocal](http://blog.csdn.net/lufeng20/article/details/24314381)
 - [概念与原理](http://blog.csdn.net/joejames/article/details/46832091)
 - [并发编程](http://blog.csdn.net/escaflone/article/details/10418651#)
