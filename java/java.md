@@ -20,10 +20,13 @@
 	* [死锁](http://www.cnblogs.com/zhuawang/p/3782814.html)
 		* [哲学家就餐](http://blog.csdn.net/tayanxunhua/article/details/38691005)
 		* [银行家算法](http://blog.sina.com.cn/s/blog_7a4d0df90100zr6x.html)
-- [概念与原理](http://blog.csdn.net/joejames/article/details/46832091)
-- [并发编程](http://blog.csdn.net/escaflone/article/details/10418651#)
-- [Java并发工具包详解](http://blog.csdn.net/defonds/article/details/44021605#t7)
-- [Java并发工具包实例](http://www.cnblogs.com/draem0507/p/3824258.html)
+- 基本概念
+	* [概念与原理](http://blog.csdn.net/joejames/article/details/46832091)
+	* [并发编程](http://blog.csdn.net/escaflone/article/details/10418651#)
+	* [BIO,NIO,AIO](http://qindongliang.iteye.com/blog/2018539)
+- concurrent
+	* [Java并发工具包详解](http://blog.csdn.net/defonds/article/details/44021605#t7)
+	* [Java并发工具包实例](http://www.cnblogs.com/draem0507/p/3824258.html)
 
 ###JMM###
 
