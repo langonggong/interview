@@ -1,0 +1,28 @@
+-------------------------------------------------2016-04-07 16:00:54
+一面 
+自我介绍 
+你对oo的认识 
+session是什么，怎么实现 
+cookie相关，主要是我session提过去的
+ http302，301表示什么 
+filter认识，response是在哪产生的 
+jsp是什么鬼 
+一个字符串考察常量池概念 
+synchronized是什么
+ 移动端怎么保持session 
+list删除用什么遍历，foreach是怎么实现的 
+mvc是什么 
+问懂io么 
+观察者模式，好处 
+ 二面 
+自我介绍 
+hashmap,hashtable,concurrenthashmap区别与应用场景 
+spring两个特性与实现 
+spring事物中隔离级别 
+gc 
+一个几百g的字符文件在很小的内存中怎么公平的随机取100个字符
+http301，302，我表示一面玩后忘记查301了。。。
+ http协议 
+写一个很简单的sql语句 
+sql连接种类 
+问了下用过什么servlet容器，只是问了下 
