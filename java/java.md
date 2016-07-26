@@ -27,6 +27,8 @@
 - concurrent
 	* [Java并发工具包详解](http://blog.csdn.net/defonds/article/details/44021605#t7)
 	* [Java并发工具包实例](http://www.cnblogs.com/draem0507/p/3824258.html)
+- copyOnWrite
+	* [CopyOnWrite容器](http://blog.csdn.net/maxwell_nc/article/details/49991133)
 
 ###JMM###
 
