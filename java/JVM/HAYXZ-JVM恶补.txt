@@ -128,6 +128,11 @@ Sun（现在应该叫oracle）的JVM Generational Collecting(垃圾回收)原理
 		Java中的类WeakReference表示弱引用
 	(4)虚引用
 		这个引用存在的唯一目的就是在这个对象被收集器回收时收到一个系统通知，被虚引用关联的对象，和其生存时间完全没关系。Java中的类PhantomReference表示虚引用
+
+	5、Minor GC,Major GC,Full GC
+		Minor GC：指发生在新生代的垃圾收集动作，因为 Java 对象大多都具备朝生夕灭的特性，所以 Minor GC 非常频繁，一般回收速度也比较快。
+		Major GC/Full GC ：指发生在老年代的 GC，出现了 Major GC，经常会伴随至少一次的 Minor GC
+		Full GC:针对老年代/永久代进行GC,stop the world
 ---------------------------------------------------------------------------------------------------------
 1.JVM系统结构
 	堆(Heap):jvm中内存占用最大的一块,是所有线程共享的一块内存区域.在jvm启动时创建,存放的是所有对象实例（或数组），所有的对象实例都在这里进行动态分配，当类空间无法再扩张会抛出OutOfMemoryError异常。Java堆是垃圾收集器管理的主要区域，而收集器采用分代收集算法。
