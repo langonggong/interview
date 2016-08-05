@@ -20,6 +20,8 @@
 	* [死锁](http://www.cnblogs.com/zhuawang/p/3782814.html)
 		* [哲学家就餐](http://blog.csdn.net/tayanxunhua/article/details/38691005)
 		* [银行家算法](http://blog.sina.com.cn/s/blog_7a4d0df90100zr6x.html)
+	* 几个几个线程互撸的题目
+		* [子线程循环10次，接着主线程循环100，接着又回到子线程循环10次，接着再回到主线程又循环100，如此循环50次](http://blog.csdn.net/nszkadrgg/article/details/8197555)
 - 基本概念
 	* [概念与原理](http://blog.csdn.net/joejames/article/details/46832091)
 	* [并发编程](http://blog.csdn.net/escaflone/article/details/10418651#)
