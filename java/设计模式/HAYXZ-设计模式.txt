@@ -68,6 +68,13 @@ http://blog.csdn.net/wyxhd2008/article/details/5597975
 	•子类的实例不需要变成另一个类的对象
 	•子类扩展，而不是覆盖或者使父类的功能失效
 
+6.监听器用到的设计模式
+
+	观察者模式:http://wade6.iteye.com/blog/1305787
+
+7.23中设计模式大全
+
+	http://blog.csdn.net/zhangerqing/article/details/8194653
 	
 
 

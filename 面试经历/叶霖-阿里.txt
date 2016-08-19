@@ -139,6 +139,12 @@
 
 	+ servlet请求的时序图
 
+		http://blog.csdn.net/yuebinghaoyuan/article/details/7181925
+		1.Web浏览器-->发出http请求-->Web容器-->首次访问的话创建目标Servlet对象-->Servlet
+ 		2.Web容器-->创建请求和响应对象(request和response)-->调用Servlet的service(ServletResquest,ServletRespons)并且将刚才创建的请求对象和响应对象对象传递给Servlet
+	    3.Servlet程序从请求对象中读取请求信息,将响应信息写入到响应对象当中；
+	    4.service方法结束，程序返回到web容器->web容器从相应对象中读取响应信息->将响应星系生成HTTP消息返回给浏览器
+
 	- spring框架以及源码的研究
 
 	相关概念 思路 IOC AOP理论回答的比较清楚
