@@ -4,7 +4,7 @@
 若想加入小组，参与项目的开发，请联系我  
 <div align="center">    
 <img src="https://github.com/langonggong/interview/blob/master/img/qq.png" width = "256" height = "256" alt="QQ"/>
-<img src="https://github.com/langonggong/interview/blob/master/img/wechat.jpg" width = "256" height = "256" alt="wechat"/>  
+<img src="https://github.com/langonggong/interview/blob/master/img/wechat.jpg" width = "260" height = "260" alt="wechat"/>  
 </div>  
 
 
