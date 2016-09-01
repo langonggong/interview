@@ -3,8 +3,8 @@
 请移至:[GitOrgLan/interview](https://github.com/GitOrgLan/interview)  
 若想加入小组，参与项目的开发，请联系我  
 <div align="center">    
-<img src="https://github.com/langonggong/interview/blob/master/img/qq.jpg" width = "300" height = "200" alt="QQ"/>
-<img src="https://github.com/langonggong/interview/blob/master/img/wechat.jpg" width = "300" height = "200" alt="wechat"/>  
+<img src="https://github.com/langonggong/interview/blob/master/img/qq.jpg" width = "270" height = "370" alt="QQ"/>
+<img src="https://github.com/langonggong/interview/blob/master/img/wechat.jpg" width = "256" height = "256" alt="wechat"/>  
 </div>  
 
 
