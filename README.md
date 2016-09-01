@@ -2,6 +2,6 @@
 ##
 请移至:[GitOrgLan/interview](https://github.com/GitOrgLan/interview)  
 若想加入小组，参与项目的开发，请联系我  
-![QQ](https://github.com/langonggong/interview/blob/master/img/qq.jpg)  
-![wechat](https://github.com/langonggong/interview/blob/master/img/wechat.jpg)
+![QQ](https://github.com/langonggong/interview/blob/master/img/qq.jpg=100x100)
+![wechat](https://github.com/langonggong/interview/blob/master/img/wechat.jpg=100x100)
 
